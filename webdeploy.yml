@@ -8,7 +8,7 @@
 	  state: latest
 	  update_cache: yes
 	with_items:
-	  - tomcat
+	  - tomcat8
 	  - tomcat8-admin
 	  - tomcat8-docs
 	  - tomcat8-common
